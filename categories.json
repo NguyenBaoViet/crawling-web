@@ -1,0 +1,954 @@
+[
+{
+"ID": "a0e69a15-6760-49ff-a63c-4f3398c1f9e9",
+"Name": "nu",
+"URL": "https://www.acfc.com.vn/nu.html",
+"SubLevel": 0,
+"ParentID": "00000000-0000-0000-0000-000000000000"
+},
+{
+"ID": "9567b622-90e3-4ee6-9aef-a734c9d7a398",
+"Name": "quan-ao",
+"URL": "https://www.acfc.com.vn/nu/quan-ao.html",
+"SubLevel": 1,
+"ParentID": "a0e69a15-6760-49ff-a63c-4f3398c1f9e9"
+},
+{
+"ID": "c7c17c58-24e0-48cd-a3d1-56a331d531e6",
+"Name": "vay-dam",
+"URL": "https://www.acfc.com.vn/nu/quan-ao/vay-dam.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "33357674-898e-430b-916e-0fe69367e4e5",
+"Name": "chan-vay",
+"URL": "https://www.acfc.com.vn/nu/quan-ao/chan-vay.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "0e2615ce-4780-4353-baa5-f4b6bce7aa80",
+"Name": "ao-khoac-nu",
+"URL": "https://www.acfc.com.vn/nu/quan-ao/ao-khoac-nu.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "0ec1b62e-79d5-4f89-b85f-b3afa2a5e686",
+"Name": "jumpsuit",
+"URL": "https://www.acfc.com.vn/nu/quan-ao/jumpsuit.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "23ba55ad-bfc7-486a-b804-919c7f29cc6f",
+"Name": "do-boi-nu",
+"URL": "https://www.acfc.com.vn/nu/quan-ao/do-boi-nu.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "75d4b915-ccfc-485a-b98a-d8180a4f7aeb",
+"Name": "do-the-thao-nu",
+"URL": "https://www.acfc.com.vn/nu/quan-ao/do-the-thao-nu.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "c1376c06-39e5-4113-a4ce-7597511ce7e0",
+"Name": "do-ngu",
+"URL": "https://www.acfc.com.vn/nu/quan-ao/do-ngu.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "f44ebb96-520d-4be7-9792-18db641fa416",
+"Name": "do-lot",
+"URL": "https://www.acfc.com.vn/nu/quan-ao/do-lot.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "8475b96a-c67d-4015-b98f-40eaa684560a",
+"Name": "do-vest",
+"URL": "https://www.acfc.com.vn/nu/quan-ao/do-vest.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "1729f858-6b3e-406c-827e-f99a9aafb739",
+"Name": "ao-nu",
+"URL": "https://www.acfc.com.vn/nu/quan-ao/ao-nu.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "9a10ccf5-38fa-48c3-802a-8d5c560e316f",
+"Name": "giay",
+"URL": "https://www.acfc.com.vn/nu/giay.html",
+"SubLevel": 1,
+"ParentID": "a0e69a15-6760-49ff-a63c-4f3398c1f9e9"
+},
+{
+"ID": "64cd13e4-8914-432d-9869-cb2e32f92dd8",
+"Name": "giay-bet-nu",
+"URL": "https://www.acfc.com.vn/nu/giay/giay-bet-nu.html",
+"SubLevel": 2,
+"ParentID": "9a10ccf5-38fa-48c3-802a-8d5c560e316f"
+},
+{
+"ID": "e3834307-6da2-469e-a846-1072f7542ea8",
+"Name": "giay-sandal-nu",
+"URL": "https://www.acfc.com.vn/nu/giay/giay-sandal-nu.html",
+"SubLevel": 2,
+"ParentID": "9a10ccf5-38fa-48c3-802a-8d5c560e316f"
+},
+{
+"ID": "7c2f6623-e1b8-4211-a1af-070c0207f0e9",
+"Name": "giay-cao-got",
+"URL": "https://www.acfc.com.vn/nu/giay/giay-cao-got.html",
+"SubLevel": 2,
+"ParentID": "9a10ccf5-38fa-48c3-802a-8d5c560e316f"
+},
+{
+"ID": "c7aa9932-38cc-4e12-8d57-1da1dc8b96c7",
+"Name": "giay-bot",
+"URL": "https://www.acfc.com.vn/nu/giay/giay-bot.html",
+"SubLevel": 2,
+"ParentID": "9a10ccf5-38fa-48c3-802a-8d5c560e316f"
+},
+{
+"ID": "39cbd3bb-4fac-4e4a-af24-327584ac5bae",
+"Name": "giay-the-thao-nu",
+"URL": "https://www.acfc.com.vn/nu/giay/giay-the-thao-nu.html",
+"SubLevel": 2,
+"ParentID": "9a10ccf5-38fa-48c3-802a-8d5c560e316f"
+},
+{
+"ID": "b12cba27-7acb-4fa6-a89d-73f01fb66c91",
+"Name": "dep-nu",
+"URL": "https://www.acfc.com.vn/nu/giay/dep-nu.html",
+"SubLevel": 2,
+"ParentID": "9a10ccf5-38fa-48c3-802a-8d5c560e316f"
+},
+{
+"ID": "af607b20-8718-45c5-8ad4-7a26b667576b",
+"Name": "giay-di-tiec-nu",
+"URL": "https://www.acfc.com.vn/nu/giay/giay-di-tiec-nu.html",
+"SubLevel": 2,
+"ParentID": "9a10ccf5-38fa-48c3-802a-8d5c560e316f"
+},
+{
+"ID": "6a609e95-5f95-4785-ac98-cc660b35a0cc",
+"Name": "giay-dao-pho-nu",
+"URL": "https://www.acfc.com.vn/nu/giay/giay-dao-pho-nu.html",
+"SubLevel": 2,
+"ParentID": "9a10ccf5-38fa-48c3-802a-8d5c560e316f"
+},
+{
+"ID": "5ec0106b-729a-4713-8161-7214aa78a22f",
+"Name": "tui-vi",
+"URL": "https://www.acfc.com.vn/nu/tui-vi.html",
+"SubLevel": 1,
+"ParentID": "a0e69a15-6760-49ff-a63c-4f3398c1f9e9"
+},
+{
+"ID": "71edbdf7-d79d-4b73-ab43-a73e57a35e03",
+"Name": "ba-lo-nu",
+"URL": "https://www.acfc.com.vn/nu/tui-vi/ba-lo-nu.html",
+"SubLevel": 2,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "57110e85-0278-4ad5-b3eb-b097741eda38",
+"Name": "tui-tote-nu",
+"URL": "https://www.acfc.com.vn/nu/tui-vi/tui-tote-nu.html",
+"SubLevel": 2,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "182d8769-84ab-4f39-8bd9-8ae6486542c9",
+"Name": "tui-deo-cheo-nu",
+"URL": "https://www.acfc.com.vn/nu/tui-vi/tui-deo-cheo-nu.html",
+"SubLevel": 2,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "192ac675-d2b3-49a0-a87e-f2b021960104",
+"Name": "tui-deo-hong-nu",
+"URL": "https://www.acfc.com.vn/nu/tui-vi/tui-deo-hong-nu.html",
+"SubLevel": 2,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "9a29575c-4971-4f11-8844-675ca4713afb",
+"Name": "tui-cam-tay-nu",
+"URL": "https://www.acfc.com.vn/nu/tui-vi/tui-cam-tay-nu.html",
+"SubLevel": 2,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "fa5ba203-977a-4077-9ffb-7473cd3c57eb",
+"Name": "tui-di-tiec-nu",
+"URL": "https://www.acfc.com.vn/nu/tui-vi/tui-di-tiec-nu.html",
+"SubLevel": 2,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "a6e9d3d4-d396-413d-8fe3-e45277a65da4",
+"Name": "tui-xach-tay-nu",
+"URL": "https://www.acfc.com.vn/nu/tui-vi/tui-xach-tay-nu.html",
+"SubLevel": 2,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "c5a024b1-f0e9-4661-8ac8-0c7ce8b8c739",
+"Name": "vi-cam-tay-nu",
+"URL": "https://www.acfc.com.vn/nu/tui-vi/vi-cam-tay-nu.html",
+"SubLevel": 2,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "5fdde7d2-d58e-49b4-8ad5-ab452052f5f0",
+"Name": "tui-da-nang-nu",
+"URL": "https://www.acfc.com.vn/nu/tui-vi/tui-da-nang-nu.html",
+"SubLevel": 2,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "d1f736e4-d014-4245-a565-bfa6cbf92f14",
+"Name": "vi-nu",
+"URL": "https://www.acfc.com.vn/nu/tui-vi/vi-nu.html",
+"SubLevel": 2,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "2a19a916-b215-45cd-bb51-caf9a9ae09ab",
+"Name": "tui-du-lich",
+"URL": "https://www.acfc.com.vn/nu/tui-vi/tui-du-lich.html",
+"SubLevel": 2,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "5c071b94-f43c-4612-980e-0785500fffe3",
+"Name": "phu-kien",
+"URL": "https://www.acfc.com.vn/nu/phu-kien.html",
+"SubLevel": 1,
+"ParentID": "a0e69a15-6760-49ff-a63c-4f3398c1f9e9"
+},
+{
+"ID": "4b610aa1-46ec-415e-a91a-28291bcf2675",
+"Name": "mu-non",
+"URL": "https://www.acfc.com.vn/nu/phu-kien/mu-non.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "dffc8d55-6c3d-415f-a3f8-1f0d58ee7d16",
+"Name": "dong-ho",
+"URL": "https://www.acfc.com.vn/nu/phu-kien/dong-ho.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "d0b40485-bbc0-48cf-893d-782ff3ea71ba",
+"Name": "khan-choang",
+"URL": "https://www.acfc.com.vn/nu/phu-kien/khan-choang.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "8c63b735-6413-4738-99ab-ebffc04dad8a",
+"Name": "that-lung",
+"URL": "https://www.acfc.com.vn/nu/phu-kien/that-lung.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "61dbdbd0-2ff1-4cb5-8052-9b556db53888",
+"Name": "gang-tay",
+"URL": "https://www.acfc.com.vn/nu/phu-kien/gang-tay.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "aa9f3b00-fbb9-4aa1-a1d1-ca1051af37bb",
+"Name": "vo-quan-tat",
+"URL": "https://www.acfc.com.vn/nu/phu-kien/vo-quan-tat.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "e79ca366-1b07-41de-84bb-2a08ea83d47c",
+"Name": "phu-kien-di-mua",
+"URL": "https://www.acfc.com.vn/nu/phu-kien/phu-kien-di-mua.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "30928526-35b6-4d0a-a157-4c30d5c613b1",
+"Name": "phu-kien-toc",
+"URL": "https://www.acfc.com.vn/nu/phu-kien/phu-kien-toc.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "b9364e29-057e-401c-8af6-f9027607a04a",
+"Name": "phu-kien-cong-nghe",
+"URL": "https://www.acfc.com.vn/van-phong-pham-qua-tang/phu-kien-cong-nghe.html",
+"SubLevel": 1,
+"ParentID": "00000000-0000-0000-0000-000000000000"
+},
+{
+"ID": "dc9197c4-91b8-4adf-be7f-bdb0a3936ef1",
+"Name": "phu-kien-du-lich",
+"URL": "https://www.acfc.com.vn/phu-kien/phu-kien-du-lich.html",
+"SubLevel": 1,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "a5293614-ba45-4bad-8ffb-87c6988b2750",
+"Name": "phu-kien-khac",
+"URL": "https://www.acfc.com.vn/phu-kien/phu-kien-khac.html",
+"SubLevel": 1,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "b7593d5f-8116-4fbe-b098-bdb2a856a122",
+"Name": "trang-suc",
+"URL": "https://www.acfc.com.vn/nu/trang-suc.html",
+"SubLevel": 1,
+"ParentID": "a0e69a15-6760-49ff-a63c-4f3398c1f9e9"
+},
+{
+"ID": "b9e1ba5e-54dd-4a03-9190-3d6248476a37",
+"Name": "hoa-tai",
+"URL": "https://www.acfc.com.vn/nu/trang-suc/hoa-tai.html",
+"SubLevel": 2,
+"ParentID": "b7593d5f-8116-4fbe-b098-bdb2a856a122"
+},
+{
+"ID": "b5c87ffc-cb6e-481a-9c37-7f384a151d33",
+"Name": "vong-tay",
+"URL": "https://www.acfc.com.vn/nu/trang-suc/vong-tay.html",
+"SubLevel": 2,
+"ParentID": "b7593d5f-8116-4fbe-b098-bdb2a856a122"
+},
+{
+"ID": "8dc22889-eea7-437c-a9dc-9cb0c8ba9e73",
+"Name": "day-chuyen",
+"URL": "https://www.acfc.com.vn/nu/trang-suc/day-chuyen.html",
+"SubLevel": 2,
+"ParentID": "b7593d5f-8116-4fbe-b098-bdb2a856a122"
+},
+{
+"ID": "87c94802-4baf-44a6-b530-14e7a3f8ba2b",
+"Name": "nhan",
+"URL": "https://www.acfc.com.vn/nu/trang-suc/nhan.html",
+"SubLevel": 2,
+"ParentID": "b7593d5f-8116-4fbe-b098-bdb2a856a122"
+},
+{
+"ID": "0bd01f88-3ec0-494e-be5b-eeb1e263a5da",
+"Name": "eyewear",
+"URL": "https://www.acfc.com.vn/nu/eyewear.html",
+"SubLevel": 1,
+"ParentID": "a0e69a15-6760-49ff-a63c-4f3398c1f9e9"
+},
+{
+"ID": "6d71b949-1347-4d66-aeca-7eb4b6c443bc",
+"Name": "sunglasses",
+"URL": "https://www.acfc.com.vn/nu/eyewear/sunglasses.html",
+"SubLevel": 2,
+"ParentID": "0bd01f88-3ec0-494e-be5b-eeb1e263a5da"
+},
+{
+"ID": "9d5a6850-cc3e-4872-a2b1-ab25aacaa5c2",
+"Name": "phu-kien-mat-kinh",
+"URL": "https://www.acfc.com.vn/nu/mat-kinh/phu-kien-mat-kinh.html",
+"SubLevel": 2,
+"ParentID": "00000000-0000-0000-0000-000000000000"
+},
+{
+"ID": "96297b6b-e2a5-4847-abd3-90ba5ad53deb",
+"Name": "van-phong-pham-qua-tang",
+"URL": "https://www.acfc.com.vn/van-phong-pham-qua-tang.html",
+"SubLevel": 0,
+"ParentID": "00000000-0000-0000-0000-000000000000"
+},
+{
+"ID": "d4353cf7-c9df-438e-8915-fae853782094",
+"Name": "so-ghi-chep",
+"URL": "https://www.acfc.com.vn/van-phong-pham-qua-tang/so-ghi-chep.html",
+"SubLevel": 1,
+"ParentID": "96297b6b-e2a5-4847-abd3-90ba5ad53deb"
+},
+{
+"ID": "502c375d-248c-46be-8118-7912ae90a786",
+"Name": "but-but-chi",
+"URL": "https://www.acfc.com.vn/van-phong-pham-qua-tang/but-but-chi.html",
+"SubLevel": 1,
+"ParentID": "96297b6b-e2a5-4847-abd3-90ba5ad53deb"
+},
+{
+"ID": "5102671f-f6da-486e-b64f-512732ff5b3a",
+"Name": "dung-cu-van-phong",
+"URL": "https://www.acfc.com.vn/van-phong-pham-qua-tang/dung-cu-van-phong.html",
+"SubLevel": 1,
+"ParentID": "96297b6b-e2a5-4847-abd3-90ba5ad53deb"
+},
+{
+"ID": "ce6beb9d-8f5a-42d0-9f80-609119323be3",
+"Name": "binh-ly-dung-nuoc",
+"URL": "https://www.acfc.com.vn/van-phong-pham-qua-tang/binh-ly-dung-nuoc.html",
+"SubLevel": 1,
+"ParentID": "96297b6b-e2a5-4847-abd3-90ba5ad53deb"
+},
+{
+"ID": "2a4d456c-a43a-4560-b336-76c03221c405",
+"Name": "thiep-giay-goi-qua",
+"URL": "https://www.acfc.com.vn/van-phong-pham-qua-tang/thiep-giay-goi-qua.html",
+"SubLevel": 1,
+"ParentID": "96297b6b-e2a5-4847-abd3-90ba5ad53deb"
+},
+{
+"ID": "14e11501-e70f-49b0-9fd8-01a01d40562a",
+"Name": "do-trang-tri-do-choi-qua-tang",
+"URL": "https://www.acfc.com.vn/van-phong-pham-qua-tang/do-trang-tri-do-choi-qua-tang.html",
+"SubLevel": 1,
+"ParentID": "96297b6b-e2a5-4847-abd3-90ba5ad53deb"
+},
+{
+"ID": "e459ea21-8eba-4211-bafc-893da5d3b996",
+"Name": "phu-kien-du-lich",
+"URL": "https://www.acfc.com.vn/van-phong-pham-qua-tang/phu-kien-du-lich.html",
+"SubLevel": 1,
+"ParentID": "96297b6b-e2a5-4847-abd3-90ba5ad53deb"
+},
+{
+"ID": "80fd18b6-98a5-4cbd-8047-3ba0ed43580b",
+"Name": "nam",
+"URL": "https://www.acfc.com.vn/nam.html",
+"SubLevel": 0,
+"ParentID": "00000000-0000-0000-0000-000000000000"
+},
+{
+"ID": "7f6422a8-1058-44a6-b3b9-398363fc2f25",
+"Name": "trang-phuc",
+"URL": "https://www.acfc.com.vn/nam/trang-phuc.html",
+"SubLevel": 1,
+"ParentID": "80fd18b6-98a5-4cbd-8047-3ba0ed43580b"
+},
+{
+"ID": "9ac25e6f-c2b7-4b31-828e-c70f22465dc8",
+"Name": "ao-khoac",
+"URL": "https://www.acfc.com.vn/nam/quan-ao/ao-khoac.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "13152f77-24a6-4b19-a40e-24a5da4713ac",
+"Name": "do-vest",
+"URL": "https://www.acfc.com.vn/nam/quan-ao/do-vest.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "3c710d41-eb67-4694-914c-a402bdbf9c1b",
+"Name": "do-the-thao-nam",
+"URL": "https://www.acfc.com.vn/nam/quan-ao/do-the-thao-nam.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "11d3bb26-6680-49c2-afb2-7f6d81cb0e64",
+"Name": "do-boi",
+"URL": "https://www.acfc.com.vn/nam/quan-ao/do-boi.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "7003ba79-9a49-4e8e-b13a-fd2a81ac84fc",
+"Name": "do-ngu",
+"URL": "https://www.acfc.com.vn/nam/quan-ao/do-ngu.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "ede1e648-1100-4121-8289-1fb2fd5408bb",
+"Name": "do-lot",
+"URL": "https://www.acfc.com.vn/nam/quan-ao/do-lot.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "057436a5-21e1-4844-8243-ff766b5f0b23",
+"Name": "giay",
+"URL": "https://www.acfc.com.vn/nam/giay.html",
+"SubLevel": 1,
+"ParentID": "80fd18b6-98a5-4cbd-8047-3ba0ed43580b"
+},
+{
+"ID": "5c3ddb2d-21eb-4a65-b585-502c9807d469",
+"Name": "giay-de-bet",
+"URL": "https://www.acfc.com.vn/nam/giay/giay-de-bet.html",
+"SubLevel": 2,
+"ParentID": "9a10ccf5-38fa-48c3-802a-8d5c560e316f"
+},
+{
+"ID": "55623db3-1530-4d1b-b559-1d1424205357",
+"Name": "giay-sandal",
+"URL": "https://www.acfc.com.vn/nam/giay/giay-sandal.html",
+"SubLevel": 2,
+"ParentID": "9a10ccf5-38fa-48c3-802a-8d5c560e316f"
+},
+{
+"ID": "a5021e67-566c-4501-adc7-05612981d253",
+"Name": "giay-bot",
+"URL": "https://www.acfc.com.vn/nam/giay/giay-bot.html",
+"SubLevel": 2,
+"ParentID": "9a10ccf5-38fa-48c3-802a-8d5c560e316f"
+},
+{
+"ID": "aba44345-20e6-4727-9b81-074c302b46b2",
+"Name": "dep",
+"URL": "https://www.acfc.com.vn/nam/giay/dep.html",
+"SubLevel": 2,
+"ParentID": "9a10ccf5-38fa-48c3-802a-8d5c560e316f"
+},
+{
+"ID": "7e1e7499-0a2e-43da-8334-cb80f109d363",
+"Name": "giay-the-thao",
+"URL": "https://www.acfc.com.vn/nam/giay/giay-the-thao.html",
+"SubLevel": 2,
+"ParentID": "9a10ccf5-38fa-48c3-802a-8d5c560e316f"
+},
+{
+"ID": "66e07c9e-dd2d-4654-88f7-7f8e1dcc7ca3",
+"Name": "tui-vi",
+"URL": "https://www.acfc.com.vn/nam/tui-vi.html",
+"SubLevel": 1,
+"ParentID": "80fd18b6-98a5-4cbd-8047-3ba0ed43580b"
+},
+{
+"ID": "b9fdcf7f-1db3-4911-bd34-aea1cc55aa46",
+"Name": "balo",
+"URL": "https://www.acfc.com.vn/nam/tui-vi/balo.html",
+"SubLevel": 2,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "cef24504-3312-434a-a5fa-8136f41fcbc2",
+"Name": "tui-messenger",
+"URL": "https://www.acfc.com.vn/nam/tui-vi/tui-messenger.html",
+"SubLevel": 2,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "3b7dd5d1-afe9-4e35-a6ac-83da99dc306b",
+"Name": "tui-tote",
+"URL": "https://www.acfc.com.vn/nam/tui-vi/tui-tote.html",
+"SubLevel": 2,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "ac7903bc-0450-49ed-9bc4-f32123895183",
+"Name": "tui-the-thao",
+"URL": "https://www.acfc.com.vn/nam/tui-vi/tui-the-thao.html",
+"SubLevel": 2,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "14503b5e-0c21-4d04-bf4e-f3e6b83d7145",
+"Name": "tui-deo-cheo",
+"URL": "https://www.acfc.com.vn/nam/tui-vi/tui-deo-cheo.html",
+"SubLevel": 2,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "b65f6a03-8a16-4811-9db3-a0a4864dfc2e",
+"Name": "tui-cam-tay",
+"URL": "https://www.acfc.com.vn/nam/tui-vi/tui-cam-tay.html",
+"SubLevel": 2,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "7b26f796-0fcf-44b5-810b-32e312a8cf3f",
+"Name": "vi",
+"URL": "https://www.acfc.com.vn/nam/tui-vi/vi.html",
+"SubLevel": 2,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "b28e06c3-d5de-4db3-9843-005a9a9dae53",
+"Name": "tui-da-nang",
+"URL": "https://www.acfc.com.vn/nam/tui-vi/tui-da-nang.html",
+"SubLevel": 2,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "20e94f12-daab-4629-aca2-d080302ac170",
+"Name": "tui-dung-giay",
+"URL": "https://www.acfc.com.vn/nam/tui-vi/tui-dung-giay.html",
+"SubLevel": 2,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "4b9909a8-10b6-456f-9cb5-fa45e0fb1a34",
+"Name": "tui-du-lich",
+"URL": "https://www.acfc.com.vn/nam/tui-vi/tui-du-lich.html",
+"SubLevel": 2,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "68e557ef-a236-4955-b62f-0a5c24ea96d9",
+"Name": "phu-kien",
+"URL": "https://www.acfc.com.vn/nam/phu-kien.html",
+"SubLevel": 1,
+"ParentID": "80fd18b6-98a5-4cbd-8047-3ba0ed43580b"
+},
+{
+"ID": "e6c9735b-282f-4dd4-8d6f-93987d87cf52",
+"Name": "mu",
+"URL": "https://www.acfc.com.vn/nam/phu-kien/mu.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "8c45f063-a993-419b-9d35-ddbd46cba642",
+"Name": "khan-choang",
+"URL": "https://www.acfc.com.vn/nam/phu-kien/khan-choang.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "5b106ff3-2401-466a-b9b7-ebd94cf2e830",
+"Name": "that-lung",
+"URL": "https://www.acfc.com.vn/nam/phu-kien/that-lung.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "54fee0ea-0b69-410a-a9da-8ab15250c828",
+"Name": "gang-tay",
+"URL": "https://www.acfc.com.vn/nam/phu-kien/gang-tay.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "af41dde9-15e4-4f28-ba2d-cd54de1538b3",
+"Name": "vo-quan-tat",
+"URL": "https://www.acfc.com.vn/nam/phu-kien/vo-quan-tat.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "37cff35c-aec0-4e50-a8b7-1c6bd8a60ed5",
+"Name": "phu-kien-vest",
+"URL": "https://www.acfc.com.vn/nam/phu-kien/phu-kien-vest.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "05897a52-bcbd-4700-9acd-30978cd01de5",
+"Name": "phu-kien-di-mua",
+"URL": "https://www.acfc.com.vn/nam/phu-kien/phu-kien-di-mua.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "6fcd3ecb-2fdc-42d1-bc08-4c571900625b",
+"Name": "trang-suc",
+"URL": "https://www.acfc.com.vn/nam/trang-suc.html",
+"SubLevel": 1,
+"ParentID": "80fd18b6-98a5-4cbd-8047-3ba0ed43580b"
+},
+{
+"ID": "8b312164-31f3-42ee-9e9a-b58b712e6c27",
+"Name": "lac-tay",
+"URL": "https://www.acfc.com.vn/nam/trang-suc/lac-tay.html",
+"SubLevel": 2,
+"ParentID": "b7593d5f-8116-4fbe-b098-bdb2a856a122"
+},
+{
+"ID": "72ff2ed4-b99b-40bf-8f91-9a681e6c79ab",
+"Name": "mat-kinh",
+"URL": "https://www.acfc.com.vn/nam/mat-kinh.html",
+"SubLevel": 1,
+"ParentID": "80fd18b6-98a5-4cbd-8047-3ba0ed43580b"
+},
+{
+"ID": "bb90ec74-a50b-4641-9d38-8a092adbeaa7",
+"Name": "kinh-mat",
+"URL": "https://www.acfc.com.vn/nam/mat-kinh/kinh-mat.html",
+"SubLevel": 2,
+"ParentID": "72ff2ed4-b99b-40bf-8f91-9a681e6c79ab"
+},
+{
+"ID": "2c2aa88c-d6a5-4731-8e80-f9604e9346b6",
+"Name": "tre-em",
+"URL": "https://www.acfc.com.vn/tre-em.html",
+"SubLevel": 0,
+"ParentID": "00000000-0000-0000-0000-000000000000"
+},
+{
+"ID": "efaf57af-704b-4e7b-8853-d1cd0368cdcf",
+"Name": "quan-ao",
+"URL": "https://www.acfc.com.vn/tre-em/quan-ao.html",
+"SubLevel": 1,
+"ParentID": "2c2aa88c-d6a5-4731-8e80-f9604e9346b6"
+},
+{
+"ID": "a0608760-a061-4683-8d2c-22ed3fba8d5f",
+"Name": "vay-dam",
+"URL": "https://www.acfc.com.vn/tre-em/quan-ao/vay-dam.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "58ffbcbc-4114-4269-8b6c-ee6ea2d0607b",
+"Name": "chan-vay",
+"URL": "https://www.acfc.com.vn/tre-em/quan-ao/chan-vay.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "24c1e1db-fe78-4551-9dba-4a065547c26c",
+"Name": "ao-khoac",
+"URL": "https://www.acfc.com.vn/tre-em/quan-ao/ao-khoac.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "020fc92b-3135-4dc2-989a-3b88c9f910c7",
+"Name": "ao-lien-quan",
+"URL": "https://www.acfc.com.vn/tre-em/quan-ao/ao-lien-quan.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "db9f52ab-1a8e-4382-a3d9-da4c6b9cc44c",
+"Name": "do-boi",
+"URL": "https://www.acfc.com.vn/tre-em/quan-ao/do-boi.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "acabe52b-693a-4ba7-9da9-bf7103fac16e",
+"Name": "do-the-thao",
+"URL": "https://www.acfc.com.vn/tre-em/quan-ao/do-the-thao.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "1d34d172-012a-4e4e-9235-da8fd7aea7f8",
+"Name": "do-ngu",
+"URL": "https://www.acfc.com.vn/tre-em/quan-ao/do-ngu.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "42bc0d73-aa2a-4f60-a201-64adad9538ad",
+"Name": "do-lot",
+"URL": "https://www.acfc.com.vn/tre-em/quan-ao/do-lot.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "a5546275-4d20-4f26-bb38-f1c124d63c08",
+"Name": "set-trang-phuc",
+"URL": "https://www.acfc.com.vn/tre-em/quan-ao/set-trang-phuc.html",
+"SubLevel": 2,
+"ParentID": "9567b622-90e3-4ee6-9aef-a734c9d7a398"
+},
+{
+"ID": "734b678f-5be0-48c0-891e-1b381f2d6705",
+"Name": "giay",
+"URL": "https://www.acfc.com.vn/tre-em/giay.html",
+"SubLevel": 1,
+"ParentID": "2c2aa88c-d6a5-4731-8e80-f9604e9346b6"
+},
+{
+"ID": "566f3390-7378-42ac-981e-d36c0a1c264b",
+"Name": "giay-de-bet",
+"URL": "https://www.acfc.com.vn/tre-em/giay/giay-de-bet.html",
+"SubLevel": 2,
+"ParentID": "9a10ccf5-38fa-48c3-802a-8d5c560e316f"
+},
+{
+"ID": "fce9c761-6f58-4424-ba85-998884240c1e",
+"Name": "giay-sandal",
+"URL": "https://www.acfc.com.vn/tre-em/giay/giay-sandal.html",
+"SubLevel": 2,
+"ParentID": "9a10ccf5-38fa-48c3-802a-8d5c560e316f"
+},
+{
+"ID": "6caa9e7f-2793-4f38-9f8a-87fe5560793b",
+"Name": "giay-bot",
+"URL": "https://www.acfc.com.vn/tre-em/giay/giay-bot.html",
+"SubLevel": 2,
+"ParentID": "9a10ccf5-38fa-48c3-802a-8d5c560e316f"
+},
+{
+"ID": "f4d076de-12ac-466e-8f8c-3b0825476c26",
+"Name": "giay-the-thao",
+"URL": "https://www.acfc.com.vn/tre-em/giay/giay-the-thao.html",
+"SubLevel": 2,
+"ParentID": "9a10ccf5-38fa-48c3-802a-8d5c560e316f"
+},
+{
+"ID": "8a2fd440-db07-4166-8c10-cbacc53783b5",
+"Name": "dep",
+"URL": "https://www.acfc.com.vn/tre-em/giay/dep.html",
+"SubLevel": 2,
+"ParentID": "9a10ccf5-38fa-48c3-802a-8d5c560e316f"
+},
+{
+"ID": "cb8b3d63-fa22-4770-99d6-14f57d4909e8",
+"Name": "tui-vi",
+"URL": "https://www.acfc.com.vn/tre-em/tui-vi.html",
+"SubLevel": 1,
+"ParentID": "2c2aa88c-d6a5-4731-8e80-f9604e9346b6"
+},
+{
+"ID": "6eaae62e-e65a-4e9e-a9c5-c7b9476c3bc2",
+"Name": "ba-lo",
+"URL": "https://www.acfc.com.vntre-em/tui-vi/ba-lo.html",
+"SubLevel": 1,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "b2663642-b581-4f29-a12b-0024309a39d5",
+"Name": "tui-deo-hong",
+"URL": "https://www.acfc.com.vntre-em/tui-vi/tui-deo-hong.html",
+"SubLevel": 1,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "059ee728-c4f6-48fd-8e80-24e63b852e88",
+"Name": "tui-da-nang",
+"URL": "https://www.acfc.com.vntre-em/tui-vi/tui-da-nang.html",
+"SubLevel": 1,
+"ParentID": "5ec0106b-729a-4713-8161-7214aa78a22f"
+},
+{
+"ID": "9488cfb5-9a70-42c4-b065-0b40733473fb",
+"Name": "phu-kien",
+"URL": "https://www.acfc.com.vn/tre-em/phu-kien.html",
+"SubLevel": 1,
+"ParentID": "2c2aa88c-d6a5-4731-8e80-f9604e9346b6"
+},
+{
+"ID": "5c1d7127-9d80-4c03-b209-5bf431f5a33f",
+"Name": "mu-non",
+"URL": "https://www.acfc.com.vn/tre-em/phu-kien/mu-non.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "14b4ea62-e682-4675-a689-317cbcbd0c05",
+"Name": "khan-khan-choang",
+"URL": "https://www.acfc.com.vn/tre-em/phu-kien/khan-khan-choang.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "589383a8-cca3-45f0-8aaf-15ea524179ca",
+"Name": "that-lung",
+"URL": "https://www.acfc.com.vn/tre-em/phu-kien/that-lung.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "c5b5802c-d55a-4b1a-a65c-0a8953b32750",
+"Name": "gang-tay",
+"URL": "https://www.acfc.com.vn/tre-em/phu-kien/gang-tay.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "0ed12bae-b51d-4d3f-b212-fa0c3f703bfc",
+"Name": "vo-quan-vo",
+"URL": "https://www.acfc.com.vn/tre-em/phu-kien/vo-quan-vo.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "859c61fe-ed1a-4f4c-83b6-ddbff34bd902",
+"Name": "phu-kien-di-mua",
+"URL": "https://www.acfc.com.vn/tre-em/phu-kien/phu-kien-di-mua.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "6b51acf7-60b2-486d-80f5-ff68cfed21fb",
+"Name": "phu-kien-toc",
+"URL": "https://www.acfc.com.vn/tre-em/phu-kien/phu-kien-toc.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "e28589c4-e6d9-470d-a51d-ec36c16649cc",
+"Name": "do-dung-nha-tam",
+"URL": "https://www.acfc.com.vn/tre-em/phu-kien/do-dung-nha-tam.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "b2768fc5-b1c2-45a0-b73a-4d60b25f4fca",
+"Name": "phu-kien-vest",
+"URL": "https://www.acfc.com.vn/tre-em/phu-kien/phu-kien-vest.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "bd52ffef-0ef0-4728-99a5-97901547e35d",
+"Name": "phu-kien-khac",
+"URL": "https://www.acfc.com.vn/tre-em/phu-kien/phu-kien-khac.html",
+"SubLevel": 2,
+"ParentID": "5c071b94-f43c-4612-980e-0785500fffe3"
+},
+{
+"ID": "0eaf60f3-7616-498b-b2ff-f2a359102004",
+"Name": "trang-suc",
+"URL": "https://www.acfc.com.vn/tre-em/trang-suc.html",
+"SubLevel": 1,
+"ParentID": "2c2aa88c-d6a5-4731-8e80-f9604e9346b6"
+},
+{
+"ID": "ed060e2d-f167-4959-8ab1-8d1775044356",
+"Name": "day-chuyen",
+"URL": "https://www.acfc.com.vn/tre-em/trang-suc/day-chuyen.html",
+"SubLevel": 2,
+"ParentID": "b7593d5f-8116-4fbe-b098-bdb2a856a122"
+},
+{
+"ID": "c098ff25-f7c5-4e69-9d8f-b5321fc15b35",
+"Name": "vong-tay",
+"URL": "https://www.acfc.com.vn/tre-em/trang-suc/vong-tay.html",
+"SubLevel": 2,
+"ParentID": "b7593d5f-8116-4fbe-b098-bdb2a856a122"
+},
+{
+"ID": "1733bee5-2746-40e8-8335-71bea664e853",
+"Name": "nhan",
+"URL": "https://www.acfc.com.vn/tre-em/trang-suc/nhan.html",
+"SubLevel": 2,
+"ParentID": "b7593d5f-8116-4fbe-b098-bdb2a856a122"
+},
+{
+"ID": "b3dcd1da-2414-4bf1-99fc-90557f891fe3",
+"Name": "mat-kinh",
+"URL": "https://www.acfc.com.vn/tre-em/mat-kinh.html",
+"SubLevel": 1,
+"ParentID": "2c2aa88c-d6a5-4731-8e80-f9604e9346b6"
+},
+{
+"ID": "50c94887-716c-4a9c-805a-d3d5ff062b17",
+"Name": "kinh-mat",
+"URL": "https://www.acfc.com.vn/tre-em/mat-kinh/kinh-mat.html",
+"SubLevel": 2,
+"ParentID": "72ff2ed4-b99b-40bf-8f91-9a681e6c79ab"
+}
+]
