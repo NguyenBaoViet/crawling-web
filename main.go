@@ -14,9 +14,10 @@ import (
 )
 
 func main() {
+
 	//GetCategory()
 	//GetProduct()
-	GetProductDetails()
+	//GetProductDetails()
 }
 
 func GetCategory() {
@@ -211,3 +212,5 @@ func GetProductDetails() {
 	// 	fmt.Println(err)
 	// }
 }
+
+//Get the data crawled from the website
