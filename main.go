@@ -1,23 +1,82 @@
 package main
 
 import (
+	"context"
 	"crawl-web/ulti"
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
+	"log"
 	"os"
 	"strconv"
 	"strings"
+	"time"
 
+	"github.com/PuerkitoBio/goquery"
+	"github.com/chromedp/cdproto/cdp"
+	"github.com/chromedp/cdproto/network"
+	"github.com/chromedp/chromedp"
 	"github.com/gocolly/colly"
 	"github.com/google/uuid"
 )
 
 func main() {
 
-	//GetCategory()
-	//GetProduct()
-	//GetProductDetails()
+}
+
+//Get the data crawled from the website
+func GetHttpHtmlContent(url string, selector string, sel interface{}) (string, error) {
+	options := []chromedp.ExecAllocatorOption{
+		chromedp.Flag("headless", true), // debug usage
+		chromedp.Flag("blink-settings", "imagesEnabled=false"),
+		chromedp.UserAgent(`Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36`),
+	}
+	//Initialization parameters, first pass an empty data
+	options = append(chromedp.DefaultExecAllocatorOptions[:], options...)
+
+	c, _ := chromedp.NewExecAllocator(context.Background(), options...)
+
+	// create context
+	chromeCtx, cancel := chromedp.NewContext(c, chromedp.WithLogf(log.Printf))
+	defer cancel()
+	// Execute an empty task to create a Chrome instance in advance
+	err := chromedp.Run(chromeCtx, make([]chromedp.Action, 0, 1)...)
+	if err != nil {
+		return "", err
+	}
+
+	//Create a context with a timeout of 40s
+	timeoutCtx, cancel := context.WithTimeout(chromeCtx, 30*time.Second)
+	defer cancel()
+
+	var htmlContent string
+	err = chromedp.Run(timeoutCtx,
+		chromedp.Navigate(url),
+		chromedp.WaitVisible(selector),
+		chromedp.Click(`//*[@id="product-options-wrapper"]/div/div[1]/div/div/div[1]`),
+		chromedp.OuterHTML(sel, &htmlContent, chromedp.ByJSPath),
+	)
+	if err != nil {
+		log.Printf("Run err : %v\n", err)
+		return "", err
+	}
+	//log.Println(htmlContent)
+
+	return htmlContent, nil
+}
+
+func GetSpecialData(htmlContent string, selector string) (string, error) {
+	dom, err := goquery.NewDocumentFromReader(strings.NewReader(htmlContent))
+	if err != nil {
+		fmt.Println(err)
+		return "", err
+	}
+
+	var str string
+	dom.Find(selector).Each(func(i int, selection *goquery.Selection) {
+		str = selection.Text()
+	})
+	return str, nil
 }
 
 func GetCategory() {
@@ -213,4 +272,32 @@ func GetProductDetails() {
 	// }
 }
 
-//Get the data crawled from the website
+func SetCookie(name, content, domain, path string, httpOnly, secure bool) chromedp.Action {
+	return chromedp.ActionFunc(func(ctx context.Context) error {
+		expr := cdp.TimeSinceEpoch(time.Now().Add(180 * 24 * time.Hour))
+		err := network.SetCookie(name, content).
+			WithExpires(&expr).
+			WithDomain(domain).
+			WithPath(path).
+			WithHTTPOnly(httpOnly).
+			WithSecure(secure).
+			Do(ctx)
+		if err != nil {
+			return err
+		}
+		return nil
+	})
+}
+
+func ShowCookies() chromedp.Action {
+	return chromedp.ActionFunc(func(ctx context.Context) error {
+		cookies, err := network.GetAllCookies().Do(ctx)
+		if err != nil {
+			return err
+		}
+		for i, cookie := range cookies {
+			log.Printf("chrome cookie %d: %+v", i, cookie)
+		}
+		return nil
+	})
+}
